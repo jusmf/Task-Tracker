@@ -29,4 +29,4 @@ All new tasks are added as "active", but can be updated to "completed"
 View tasks that are set as "active" or "complete"
 
 <img width="1201" alt="Screen Shot 2022-05-02 at 12 44 52 PM" src="https://user-images.githubusercontent.com/77170645/166289409-a8a360fa-5670-460c-8ff1-c1066fb43de4.png">
-# Task-Tracker
+
